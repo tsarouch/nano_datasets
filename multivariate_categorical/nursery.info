@@ -1,0 +1,16 @@
+Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools.
+
+
+Attribute Information:
+parents: usual, pretentious, great_pret
+has_nurs: proper, less_proper, improper, critical, very_crit
+form: complete, completed, incomplete, foster
+children: 1, 2, 3, more
+housing: convenient, less_conv, critical
+finance: convenient, inconv
+social: non-prob, slightly_prob, problematic
+health: recommended, priority, not_recom
+
+
+details here:
+https://archive.ics.uci.edu/ml/datasets/Nursery
